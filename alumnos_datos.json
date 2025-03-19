@@ -1,0 +1,34 @@
+{
+    "alumnos": [
+        {
+            "nombre": "Juan Pérez",
+            "asignatura": "Matemáticas",
+            "evaluaciones": [14.0 , 16.5, 14.5, 18.0],
+            "examen_final": 15.0
+        },
+        {
+            "nombre": "Ana López",
+            "asignatura": "Ciencias",
+            "evaluaciones": [15.0 , 17.2, 15.7, 19.5],
+            "examen_final": 5.0
+        },
+        {
+            "nombre": "Carlos García",
+            "asignatura": "Historia",
+            "evaluaciones": [12.0 , 13.8, 12.2, 14.0],
+            "examen_final": 7.0
+        },
+        {
+            "nombre": "María Fernández",
+            "asignatura": "Lengua",
+            "evaluaciones": [16.0 , 11.5, 12.8, 13.0],
+            "examen_final": 12.9
+        },
+        {
+            "nombre": "Luis Martínez",
+            "asignatura": "Física",
+            "evaluaciones": [15.0 ,16.0, 15.8, 16.3],
+            "examen_final": 16.5
+        }
+    ]
+}
