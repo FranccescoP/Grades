@@ -9,7 +9,7 @@
         {
             "nombre": "Ana López",
             "asignatura": "Ciencias",
-            "evaluaciones": [15.0 , 17.2, 15.7, 19.5],
+            "evaluaciones": [0.0 , 17.2, 15.7, 5.0],
             "examen_final": 5.0
         },
         {
