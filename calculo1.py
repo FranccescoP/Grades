@@ -99,7 +99,7 @@ for col in ['A8', 'B8', 'C8', 'D8', 'E8', 'F8', 'G8', 'H8', 'I8']:
 
 # Ajustar la altura de las filas (modificada para mayor espacio)
 sheet.row_dimensions[8].height = 15  # Aseguramos que la fila 8 tenga suficiente altura
-sheet.row_dimensions[9].height = 20  # Ajustar la altura de las filas normales (a partir de la fila 9)
+sheet.row_dimensions[9].height = 15  # Ajustar la altura de las filas normales (a partir de la fila 9)
 
 # Insertar los números del 1 al 25 en la columna A, debajo de la celda A8
 for i in range(1, 26):  # Desde 1 hasta 25
